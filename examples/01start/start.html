@@ -143,8 +143,8 @@
         }
 
         lat = THREE.Math.clamp( lat, - 89.9, 89.9 );
-        phi = THREE.Math.degToRad( 90 - lat );
-        theta = THREE.Math.degToRad( lon );
+        phi = THREE.Math.degToRad( 90 - lat ); //返回当前角度相同的弧度值
+        theta = THREE.Math.degToRad( lon ); //返回当前角度相同的弧度值
 
         camera.target.x = 100 * Math.sin( phi ) * Math.cos( theta );
         camera.target.y = 100 * Math.cos( phi );

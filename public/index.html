@@ -2,24 +2,45 @@
 <html lang="en">
 <head>
     <title>three.js webgl - panorama</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
         html, body {
             background-color: #000;
             margin: 0;
             padding: 0;
             overflow: hidden;
+            height: 100%;
+            width:100%;
+        }
+
+        #container{
+            height:100%;
+            width:100%;
+            overflow: hidden;
+        }
+        #btn{
+            position: fixed;
+            left:0;
+            top:0;
         }
     </style>
 
 </head>
 <body>
 <div id="container"></div>
+<div id="btn">
+    <button type="button">开始/停止自动旋转</button>
+    <button type="button">开启/关闭全屏</button>
+    <button type="button">开启/关闭陀螺仪</button>
+    <button type="button">开启/关闭双屏</button>
+    <button type="button">直接跳转到lon为180，lat为80</button>
+    <button type="button">切换场景</button>
+</div>
 </body>
 
 <script src="https://johnson2heng.github.io/three.js-demo/lib/three.js"></script>
-<script src="https://johnson2heng.github.io/three.js-demo/lib/js/controls/OrbitControls.js"></script>
-
+<script src="js/dop.min.js"></script>
 <script src="js/index.js"></script>
 </html>

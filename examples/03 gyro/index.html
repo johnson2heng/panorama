@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+alpha(z):<span id="alpha"></span><br/>
+beta(x):<span id="beta"></span><br/>
+gamma(y):<span id="gamma"></span><br/>
+lon:<span id="lon"></span>
+lat:<span id="lat"></span>
+</body>
+<script>
+    if (window.DeviceOrientationEvent) {
+        window.addEventListener('deviceorientation', function (event) {
+            var a = document.getElementById('alpha'),
+                b = document.getElementById('beta'),
+                g = document.getElementById('gamma'),
+                lon = document.getElementById("lon"),
+                lat = document.getElementById("lat"),
+                alpha = event.alpha,
+                beta = event.beta,
+                gamma = event.gamma;
+
+            a.innerHTML = alpha;
+            b.innerHTML = beta;
+            g.innerHTML = gamma;
+
+            console.log(this.direction,event.direction);
+
+            var evt = event;
+            let num = 0;
+
+            switch (num) {
+                case 0 :
+                    this.lon = -(alpha + gamma);
+                    this.lat = beta - 90;
+                    break;
+                case 90:
+                    this.lon = alpha - Math.abs(beta);
+                    this.lat = gamma < 0 ? -90 - gamma : 90 - gamma;
+                    break;
+                case -90:
+                    this.lon = -(alpha + Math.abs(beta));
+                    this.lat = gamma > 0 ? gamma - 90 : 90 + gamma;
+                    break;
+            }
+
+            this.lon = this.lon > 0 ? this.lon % 360 : this.lon % 360 + 360;
+
+            if (this.lastLat === undefined) {
+                this.lastLat = this.lat;
+            }
+
+            this._mooth = function(x, lx) { //插值为了平滑些
+                if (lx === undefined) {
+                    return x;
+                }
+                if (Math.abs(x - lx) > this.offsetMooth) {
+                    if (x > lx) {
+                        x = lx + this.offsetMooth;
+                    } else {
+                        x = lx - this.offsetMooth;
+                    }
+                } else {
+                    x = lx;
+                }
+                return x;
+            };
+
+            //lat变化跳动比较大，插值为了平滑些
+            this.lastLat = this.lat = this._mooth(this.lat, this.lastLat);
+
+            /*this._config.onChange({
+                lon: this.lon,
+                lat: this.lat
+            });*/
+
+            lon.innerText = this.lon;
+            lat.innerText = this.lat;
+
+        }, false);
+    } else {
+        document.querySelector('body').innerHTML = '你的浏览器不支持陀螺仪';
+    }
+</script>
+</html>

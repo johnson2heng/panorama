@@ -10,7 +10,8 @@ module.exports = {
     //以下是服务环境配置
     devServer: {
         contentBase: config.server,//本地服务器所加载的页面所在的目录
-        inline: true//实时刷新
+        inline: true, //实时刷新
+        host: "192.168.1.105"
     },
 
     module: {
