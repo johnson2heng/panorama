@@ -17,18 +17,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/source/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="347" column="0" lean-forward="true" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
+            <state relative-caret-position="627">
+              <caret line="162" column="22" lean-forward="false" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
               <folding>
                 <element signature="e#50#2149#0" expanded="false" />
                 <element signature="e#2252#4672#0" expanded="false" />
@@ -68,60 +68,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/03 gyro/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2375">
-              <caret line="775" column="68" lean-forward="false" selection-start-line="775" selection-start-column="59" selection-end-line="775" selection-end-column="68" />
-              <folding>
-                <element signature="e#164#1210#0" expanded="false" />
-                <element signature="e#2175#22814#0" expanded="false" />
-                <element signature="e#23028#25772#0" expanded="false" />
-                <element signature="e#25896#28544#0" expanded="false" />
-                <element signature="e#30206#30377#0" expanded="false" />
-                <element signature="e#31540#32171#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/03 gyro/index.html">
+        <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="323">
+              <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
               <folding>
-                <element signature="e#1961#2417#0" expanded="false" />
+                <element signature="e#3036#3232#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="start.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/01start/start.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/taycater 点击事件绑定/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="211" selection-end-column="7" />
               <folding>
-                <element signature="e#794#2199#0" expanded="false" />
-                <element signature="e#2231#2413#0" expanded="false" />
-                <element signature="e#2457#2681#0" expanded="false" />
-                <element signature="e#2725#2983#0" expanded="false" />
-                <element signature="e#3025#3069#0" expanded="false" />
-                <element signature="e#3114#3431#0" expanded="false" />
-                <element signature="e#3456#3525#0" expanded="false" />
-                <element signature="e#3549#4148#0" expanded="false" />
+                <element signature="e#1192#1392#0" expanded="false" />
+                <element signature="e#1504#1512#0" expanded="false" />
+                <element signature="e#1539#2332#0" expanded="false" />
+                <element signature="e#2374#2685#0" expanded="false" />
+                <element signature="e#3506#3610#0" expanded="false" />
+                <element signature="e#3667#3749#0" expanded="false" />
+                <element signature="e#4545#4742#0" expanded="false" />
+                <element signature="e#4767#4921#0" expanded="false" />
+                <element signature="e#4943#5183#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -160,6 +134,9 @@
         <option value="$PROJECT_DIR$/examples/03 gyro/demo.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/app/source/index.js" />
+        <option value="$PROJECT_DIR$/examples/taycater/index.html" />
+        <option value="$PROJECT_DIR$/examples/03 spherePano/index.html" />
+        <option value="$PROJECT_DIR$/examples/taycater 点击事件绑定/index.html" />
       </list>
     </option>
   </component>
@@ -199,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,6 +188,28 @@
               <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
               <item name="panorama" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panorama" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panorama" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="03 spherePano" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panorama" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="taycater 点击事件绑定" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panorama" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
@@ -227,25 +227,24 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../webpack-vue/webpack" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\github\panorama\examples\03 spherePano" />
       <recent name="D:\work\github\panorama\examples\03 gyro" />
       <recent name="D:\work\github\panorama\public\js" />
       <recent name="D:\work\panorama\public" />
       <recent name="D:\work\panorama\public\images" />
-      <recent name="D:\work\panorama" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -282,32 +281,39 @@
       <workItem from="1515320830480" duration="15456000" />
       <workItem from="1515414731672" duration="11494000" />
       <workItem from="1515513297189" duration="12000" />
+      <workItem from="1515860190896" duration="310000" />
+      <workItem from="1515860603926" duration="5892000" />
+      <workItem from="1516019515109" duration="5655000" />
+      <workItem from="1516112076969" duration="3864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71975000" />
+    <option name="totallyTimeSpent" value="87696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24841438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +329,95 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gyro 陀螺仪/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="782" column="25" lean-forward="true" selection-start-line="782" selection-start-column="25" selection-end-line="782" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gyro 陀螺仪/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="775" column="68" lean-forward="false" selection-start-line="775" selection-start-column="59" selection-end-line="775" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/01start/start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/source/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="347" column="0" lean-forward="true" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#2149#0" expanded="false" />
+            <element signature="e#2252#4672#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#7055#7156#0" expanded="false" />
+            <element signature="e#7170#7294#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#7543#7672#0" expanded="false" />
+            <element signature="e#7690#7841#0" expanded="false" />
+            <element signature="e#7949#8070#0" expanded="false" />
+            <element signature="e#8137#8316#0" expanded="false" />
+            <element signature="e#8381#8659#0" expanded="false" />
+            <element signature="e#8710#9220#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#11546#11786#0" expanded="false" />
+            <element signature="e#11800#12040#0" expanded="false" />
+            <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -373,30 +468,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/03 gyro/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#1961#2417#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html" />
     <entry file="file://$PROJECT_DIR$/examples/01start/start.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="e#794#2199#0" expanded="false" />
-            <element signature="e#2231#2413#0" expanded="false" />
-            <element signature="e#2457#2681#0" expanded="false" />
-            <element signature="e#2725#2983#0" expanded="false" />
-            <element signature="e#3025#3069#0" expanded="false" />
-            <element signature="e#3114#3431#0" expanded="false" />
-            <element signature="e#3456#3525#0" expanded="false" />
-            <element signature="e#3549#4148#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,16 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="e#794#2199#0" expanded="false" />
-            <element signature="e#2231#2413#0" expanded="false" />
-            <element signature="e#2457#2681#0" expanded="false" />
-            <element signature="e#2725#2983#0" expanded="false" />
-            <element signature="e#3025#3069#0" expanded="false" />
-            <element signature="e#3114#3431#0" expanded="false" />
-            <element signature="e#3456#3525#0" expanded="false" />
-            <element signature="e#3549#4148#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,16 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="45" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="187" selection-end-column="7" />
-          <folding>
-            <element signature="e#794#2199#0" expanded="false" />
-            <element signature="e#2231#2413#0" expanded="false" />
-            <element signature="e#2457#2681#0" expanded="false" />
-            <element signature="e#2725#2983#0" expanded="false" />
-            <element signature="e#3025#3069#0" expanded="false" />
-            <element signature="e#3114#3431#0" expanded="false" />
-            <element signature="e#3456#3525#0" expanded="false" />
-            <element signature="e#3549#4148#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,13 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -742,68 +791,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gyro 陀螺仪/demo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gyro 陀螺仪/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1743">
+          <caret line="782" column="25" lean-forward="true" selection-start-line="782" selection-start-column="25" selection-end-line="782" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/03 gyro/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2375">
-          <caret line="775" column="68" lean-forward="false" selection-start-line="775" selection-start-column="59" selection-end-line="775" selection-end-column="68" />
-          <folding>
-            <element signature="e#164#1210#0" expanded="false" />
-            <element signature="e#2175#22814#0" expanded="false" />
-            <element signature="e#23028#25772#0" expanded="false" />
-            <element signature="e#25896#28544#0" expanded="false" />
-            <element signature="e#30206#30377#0" expanded="false" />
-            <element signature="e#31540#32171#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/03 gyro/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="e#1961#2417#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/01start/start.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="e#794#2199#0" expanded="false" />
-            <element signature="e#2231#2413#0" expanded="false" />
-            <element signature="e#2457#2681#0" expanded="false" />
-            <element signature="e#2725#2983#0" expanded="false" />
-            <element signature="e#3025#3069#0" expanded="false" />
-            <element signature="e#3114#3431#0" expanded="false" />
-            <element signature="e#3456#3525#0" expanded="false" />
-            <element signature="e#3549#4148#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/01start/start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-823">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/source/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="347" column="0" lean-forward="true" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
+        <state relative-caret-position="627">
+          <caret line="162" column="22" lean-forward="false" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
           <folding>
             <element signature="e#50#2149#0" expanded="false" />
             <element signature="e#2252#4672#0" expanded="false" />
@@ -838,6 +864,42 @@
             <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
+          <folding>
+            <element signature="e#3036#3232#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/taycater 点击事件绑定/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="211" selection-end-column="7" />
+          <folding>
+            <element signature="e#1192#1392#0" expanded="false" />
+            <element signature="e#1504#1512#0" expanded="false" />
+            <element signature="e#1539#2332#0" expanded="false" />
+            <element signature="e#2374#2685#0" expanded="false" />
+            <element signature="e#3506#3610#0" expanded="false" />
+            <element signature="e#3667#3749#0" expanded="false" />
+            <element signature="e#4545#4742#0" expanded="false" />
+            <element signature="e#4767#4921#0" expanded="false" />
+            <element signature="e#4943#5183#0" expanded="false" />
           </folding>
         </state>
       </provider>
