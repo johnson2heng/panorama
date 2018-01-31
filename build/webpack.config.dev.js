@@ -11,7 +11,8 @@ module.exports = {
     devServer: {
         contentBase: config.server,//本地服务器所加载的页面所在的目录
         inline: true, //实时刷新
-        host: "192.168.1.105"
+        host: "192.168.1.105",
+        port: 8085
     },
 
     module: {

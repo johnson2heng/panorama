@@ -17,21 +17,42 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="260">
               <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/source/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="162" column="22" lean-forward="false" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
+            <state relative-caret-position="475">
+              <caret line="431" column="48" lean-forward="true" selection-start-line="431" selection-start-column="48" selection-end-line="431" selection-end-column="48" />
               <folding>
                 <element signature="e#50#2149#0" expanded="false" />
+                <element signature="e#170#212#0" expanded="false" />
+                <element signature="e#259#309#0" expanded="false" />
+                <element signature="e#355#2145#0" expanded="false" />
+                <element signature="e#459#1384#0" expanded="false" />
+                <element signature="e#1398#2096#0" expanded="false" />
                 <element signature="e#2252#4672#0" expanded="false" />
+                <element signature="e#2542#2589#0" expanded="false" />
+                <element signature="e#2644#2709#0" expanded="false" />
+                <element signature="e#2753#3241#0" expanded="false" />
+                <element signature="e#3024#3235#0" expanded="false" />
+                <element signature="e#3276#3540#0" expanded="false" />
+                <element signature="e#3576#3805#0" expanded="false" />
+                <element signature="e#3837#4463#0" expanded="false" />
+                <element signature="e#3876#3906#0" expanded="false" />
+                <element signature="e#4516#4584#0" expanded="false" />
+                <element signature="e#4617#4650#0" expanded="false" />
+                <element signature="n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+                <element signature="e#4782#4965#0" expanded="false" />
+                <element signature="e#5012#5397#0" expanded="false" />
+                <element signature="e#5443#6310#0" expanded="false" />
+                <element signature="e#5492#5680#0" expanded="false" />
+                <element signature="e#5725#6095#0" expanded="false" />
                 <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
                 <element signature="e#7055#7156#0" expanded="false" />
                 <element signature="e#7170#7294#0" expanded="false" />
@@ -40,62 +61,72 @@
                 <element signature="e#7690#7841#0" expanded="false" />
                 <element signature="e#7949#8070#0" expanded="false" />
                 <element signature="e#8137#8316#0" expanded="false" />
+                <element signature="e#8334#9234#0" expanded="false" />
                 <element signature="e#8381#8659#0" expanded="false" />
                 <element signature="e#8710#9220#0" expanded="false" />
                 <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+                <element signature="e#9336#10207#0" expanded="false" />
+                <element signature="e#9418#9778#0" expanded="false" />
+                <element signature="e#9800#10192#0" expanded="false" />
                 <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+                <element signature="e#11388#11442#0" expanded="false" />
                 <element signature="e#11546#11786#0" expanded="false" />
                 <element signature="e#11800#12040#0" expanded="false" />
                 <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
-                <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
-                <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
-                <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
+                <element signature="e#13365#13491#0" expanded="false" />
+                <element signature="e#14032#14068#0" expanded="false" />
+                <element signature="e#14082#14360#0" expanded="false" />
+                <element signature="e#14289#14350#0" expanded="false" />
                 <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+                <element signature="n#!!block;n#update#0;n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+                <element signature="e#15621#15702#0" expanded="false" />
+                <element signature="e#15715#16715#0" expanded="false" />
+                <element signature="e#15835#16079#0" expanded="false" />
                 <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+                <element signature="e#17197#17734#0" expanded="false" />
+                <element signature="e#17259#17318#0" expanded="false" />
+                <element signature="e#17391#17453#0" expanded="false" />
+                <element signature="e#17529#17594#0" expanded="false" />
+                <element signature="e#17663#17724#0" expanded="false" />
+                <element signature="e#17748#18204#0" expanded="false" />
+                <element signature="e#17791#17849#0" expanded="false" />
+                <element signature="e#17901#17964#0" expanded="false" />
+                <element signature="e#18019#18085#0" expanded="false" />
+                <element signature="e#18134#18194#0" expanded="false" />
                 <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+                <element signature="e#18571#18632#0" expanded="false" />
+                <element signature="e#18646#18809#0" expanded="false" />
                 <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
                 <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+                <element signature="e#19591#19691#0" expanded="false" />
+                <element signature="e#19872#19909#0" expanded="false" />
+                <element signature="e#20082#20143#0" expanded="false" />
+                <element signature="e#20216#20285#0" expanded="false" />
+                <element signature="e#20355#20400#0" expanded="false" />
+                <element signature="e#20469#20506#0" expanded="false" />
+                <element signature="e#20556#20597#0" expanded="false" />
+                <element signature="e#20647#20802#0" expanded="false" />
+                <element signature="e#20723#20768#0" expanded="false" />
+                <marker date="1517412657086" expanded="false" signature="14699:14804" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html">
+      <file leaf-file-name="webpack.config.dev.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/webpack.config.dev.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
-              <folding>
-                <element signature="e#3036#3232#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/taycater 点击事件绑定/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="211" selection-end-column="7" />
-              <folding>
-                <element signature="e#1192#1392#0" expanded="false" />
-                <element signature="e#1504#1512#0" expanded="false" />
-                <element signature="e#1539#2332#0" expanded="false" />
-                <element signature="e#2374#2685#0" expanded="false" />
-                <element signature="e#3506#3610#0" expanded="false" />
-                <element signature="e#3667#3749#0" expanded="false" />
-                <element signature="e#4545#4742#0" expanded="false" />
-                <element signature="e#4767#4921#0" expanded="false" />
-                <element signature="e#4943#5183#0" expanded="false" />
-              </folding>
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,14 +160,14 @@
         <option value="$PROJECT_DIR$/examples/canvasToPic.html" />
         <option value="$PROJECT_DIR$/examples/02/index.html" />
         <option value="$PROJECT_DIR$/examples/01start/start.html" />
-        <option value="$PROJECT_DIR$/build/webpack.config.dev.js" />
         <option value="$PROJECT_DIR$/examples/03 gyro/index.html" />
         <option value="$PROJECT_DIR$/examples/03 gyro/demo.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/app/source/index.js" />
         <option value="$PROJECT_DIR$/examples/taycater/index.html" />
         <option value="$PROJECT_DIR$/examples/03 spherePano/index.html" />
         <option value="$PROJECT_DIR$/examples/taycater 点击事件绑定/index.html" />
+        <option value="$PROJECT_DIR$/build/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/app/source/index.js" />
       </list>
     </option>
   </component>
@@ -177,12 +208,24 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
               <item name="panorama" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panorama" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panorama" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
@@ -209,30 +252,18 @@
             <path>
               <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
               <item name="panorama" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panorama" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="panorama" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panorama" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../webpack-vue/webpack" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../weblog" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -285,11 +316,13 @@
       <workItem from="1515860603926" duration="5892000" />
       <workItem from="1516019515109" duration="5655000" />
       <workItem from="1516112076969" duration="3864000" />
+      <workItem from="1517412074591" duration="181000" />
+      <workItem from="1517412280829" duration="516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87696000" />
+    <option name="totallyTimeSpent" value="88393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -302,8 +335,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3269663" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -382,7 +415,28 @@
           <caret line="347" column="0" lean-forward="true" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
           <folding>
             <element signature="e#50#2149#0" expanded="false" />
+            <element signature="e#170#212#0" expanded="false" />
+            <element signature="e#259#309#0" expanded="false" />
+            <element signature="e#355#2145#0" expanded="false" />
+            <element signature="e#459#1384#0" expanded="false" />
+            <element signature="e#1398#2096#0" expanded="false" />
             <element signature="e#2252#4672#0" expanded="false" />
+            <element signature="e#2542#2589#0" expanded="false" />
+            <element signature="e#2644#2709#0" expanded="false" />
+            <element signature="e#2753#3241#0" expanded="false" />
+            <element signature="e#3024#3235#0" expanded="false" />
+            <element signature="e#3276#3540#0" expanded="false" />
+            <element signature="e#3576#3805#0" expanded="false" />
+            <element signature="e#3837#4463#0" expanded="false" />
+            <element signature="e#3876#3906#0" expanded="false" />
+            <element signature="e#4516#4584#0" expanded="false" />
+            <element signature="e#4617#4650#0" expanded="false" />
+            <element signature="n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#4782#4965#0" expanded="false" />
+            <element signature="e#5012#5397#0" expanded="false" />
+            <element signature="e#5443#6310#0" expanded="false" />
+            <element signature="e#5492#5680#0" expanded="false" />
+            <element signature="e#5725#6095#0" expanded="false" />
             <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="e#7055#7156#0" expanded="false" />
             <element signature="e#7170#7294#0" expanded="false" />
@@ -391,29 +445,61 @@
             <element signature="e#7690#7841#0" expanded="false" />
             <element signature="e#7949#8070#0" expanded="false" />
             <element signature="e#8137#8316#0" expanded="false" />
+            <element signature="e#8334#9234#0" expanded="false" />
             <element signature="e#8381#8659#0" expanded="false" />
             <element signature="e#8710#9220#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#9336#10207#0" expanded="false" />
+            <element signature="e#9418#9778#0" expanded="false" />
+            <element signature="e#9800#10192#0" expanded="false" />
             <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#11388#11442#0" expanded="false" />
             <element signature="e#11546#11786#0" expanded="false" />
             <element signature="e#11800#12040#0" expanded="false" />
             <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
+            <element signature="e#13365#13491#0" expanded="false" />
+            <element signature="e#14032#14068#0" expanded="false" />
+            <element signature="e#14082#14360#0" expanded="false" />
+            <element signature="e#14289#14350#0" expanded="false" />
             <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+            <element signature="e#15621#15702#0" expanded="false" />
+            <element signature="e#15715#16715#0" expanded="false" />
+            <element signature="e#15835#16079#0" expanded="false" />
             <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+            <element signature="e#17197#17734#0" expanded="false" />
+            <element signature="e#17259#17318#0" expanded="false" />
+            <element signature="e#17391#17453#0" expanded="false" />
+            <element signature="e#17529#17594#0" expanded="false" />
+            <element signature="e#17663#17724#0" expanded="false" />
+            <element signature="e#17748#18204#0" expanded="false" />
+            <element signature="e#17791#17849#0" expanded="false" />
+            <element signature="e#17901#17964#0" expanded="false" />
+            <element signature="e#18019#18085#0" expanded="false" />
+            <element signature="e#18134#18194#0" expanded="false" />
             <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+            <element signature="e#18571#18632#0" expanded="false" />
+            <element signature="e#18646#18809#0" expanded="false" />
             <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="e#19591#19691#0" expanded="false" />
+            <element signature="e#19872#19909#0" expanded="false" />
+            <element signature="e#20082#20143#0" expanded="false" />
+            <element signature="e#20216#20285#0" expanded="false" />
+            <element signature="e#20355#20400#0" expanded="false" />
+            <element signature="e#20469#20506#0" expanded="false" />
+            <element signature="e#20556#20597#0" expanded="false" />
+            <element signature="e#20647#20802#0" expanded="false" />
+            <element signature="e#20723#20768#0" expanded="false" />
+            <marker date="1517412657086" expanded="false" signature="14699:14804" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -432,7 +518,28 @@
           <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
           <folding>
             <element signature="e#50#2149#0" expanded="false" />
+            <element signature="e#170#212#0" expanded="false" />
+            <element signature="e#259#309#0" expanded="false" />
+            <element signature="e#355#2145#0" expanded="false" />
+            <element signature="e#459#1384#0" expanded="false" />
+            <element signature="e#1398#2096#0" expanded="false" />
             <element signature="e#2252#4672#0" expanded="false" />
+            <element signature="e#2542#2589#0" expanded="false" />
+            <element signature="e#2644#2709#0" expanded="false" />
+            <element signature="e#2753#3241#0" expanded="false" />
+            <element signature="e#3024#3235#0" expanded="false" />
+            <element signature="e#3276#3540#0" expanded="false" />
+            <element signature="e#3576#3805#0" expanded="false" />
+            <element signature="e#3837#4463#0" expanded="false" />
+            <element signature="e#3876#3906#0" expanded="false" />
+            <element signature="e#4516#4584#0" expanded="false" />
+            <element signature="e#4617#4650#0" expanded="false" />
+            <element signature="n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#4782#4965#0" expanded="false" />
+            <element signature="e#5012#5397#0" expanded="false" />
+            <element signature="e#5443#6310#0" expanded="false" />
+            <element signature="e#5492#5680#0" expanded="false" />
+            <element signature="e#5725#6095#0" expanded="false" />
             <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="e#7055#7156#0" expanded="false" />
             <element signature="e#7170#7294#0" expanded="false" />
@@ -441,29 +548,61 @@
             <element signature="e#7690#7841#0" expanded="false" />
             <element signature="e#7949#8070#0" expanded="false" />
             <element signature="e#8137#8316#0" expanded="false" />
+            <element signature="e#8334#9234#0" expanded="false" />
             <element signature="e#8381#8659#0" expanded="false" />
             <element signature="e#8710#9220#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#9336#10207#0" expanded="false" />
+            <element signature="e#9418#9778#0" expanded="false" />
+            <element signature="e#9800#10192#0" expanded="false" />
             <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#11388#11442#0" expanded="false" />
             <element signature="e#11546#11786#0" expanded="false" />
             <element signature="e#11800#12040#0" expanded="false" />
             <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
+            <element signature="e#13365#13491#0" expanded="false" />
+            <element signature="e#14032#14068#0" expanded="false" />
+            <element signature="e#14082#14360#0" expanded="false" />
+            <element signature="e#14289#14350#0" expanded="false" />
             <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+            <element signature="e#15621#15702#0" expanded="false" />
+            <element signature="e#15715#16715#0" expanded="false" />
+            <element signature="e#15835#16079#0" expanded="false" />
             <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+            <element signature="e#17197#17734#0" expanded="false" />
+            <element signature="e#17259#17318#0" expanded="false" />
+            <element signature="e#17391#17453#0" expanded="false" />
+            <element signature="e#17529#17594#0" expanded="false" />
+            <element signature="e#17663#17724#0" expanded="false" />
+            <element signature="e#17748#18204#0" expanded="false" />
+            <element signature="e#17791#17849#0" expanded="false" />
+            <element signature="e#17901#17964#0" expanded="false" />
+            <element signature="e#18019#18085#0" expanded="false" />
+            <element signature="e#18134#18194#0" expanded="false" />
             <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+            <element signature="e#18571#18632#0" expanded="false" />
+            <element signature="e#18646#18809#0" expanded="false" />
             <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="e#19591#19691#0" expanded="false" />
+            <element signature="e#19872#19909#0" expanded="false" />
+            <element signature="e#20082#20143#0" expanded="false" />
+            <element signature="e#20216#20285#0" expanded="false" />
+            <element signature="e#20355#20400#0" expanded="false" />
+            <element signature="e#20469#20506#0" expanded="false" />
+            <element signature="e#20556#20597#0" expanded="false" />
+            <element signature="e#20647#20802#0" expanded="false" />
+            <element signature="e#20723#20768#0" expanded="false" />
+            <marker date="1517412657086" expanded="false" signature="14699:14804" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -520,7 +659,28 @@
           <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding>
             <element signature="e#50#2149#0" expanded="false" />
+            <element signature="e#170#212#0" expanded="false" />
+            <element signature="e#259#309#0" expanded="false" />
+            <element signature="e#355#2145#0" expanded="false" />
+            <element signature="e#459#1384#0" expanded="false" />
+            <element signature="e#1398#2096#0" expanded="false" />
             <element signature="e#2252#4672#0" expanded="false" />
+            <element signature="e#2542#2589#0" expanded="false" />
+            <element signature="e#2644#2709#0" expanded="false" />
+            <element signature="e#2753#3241#0" expanded="false" />
+            <element signature="e#3024#3235#0" expanded="false" />
+            <element signature="e#3276#3540#0" expanded="false" />
+            <element signature="e#3576#3805#0" expanded="false" />
+            <element signature="e#3837#4463#0" expanded="false" />
+            <element signature="e#3876#3906#0" expanded="false" />
+            <element signature="e#4516#4584#0" expanded="false" />
+            <element signature="e#4617#4650#0" expanded="false" />
+            <element signature="n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#4782#4965#0" expanded="false" />
+            <element signature="e#5012#5397#0" expanded="false" />
+            <element signature="e#5443#6310#0" expanded="false" />
+            <element signature="e#5492#5680#0" expanded="false" />
+            <element signature="e#5725#6095#0" expanded="false" />
             <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="e#7055#7156#0" expanded="false" />
             <element signature="e#7170#7294#0" expanded="false" />
@@ -529,29 +689,61 @@
             <element signature="e#7690#7841#0" expanded="false" />
             <element signature="e#7949#8070#0" expanded="false" />
             <element signature="e#8137#8316#0" expanded="false" />
+            <element signature="e#8334#9234#0" expanded="false" />
             <element signature="e#8381#8659#0" expanded="false" />
             <element signature="e#8710#9220#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#9336#10207#0" expanded="false" />
+            <element signature="e#9418#9778#0" expanded="false" />
+            <element signature="e#9800#10192#0" expanded="false" />
             <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#11388#11442#0" expanded="false" />
             <element signature="e#11546#11786#0" expanded="false" />
             <element signature="e#11800#12040#0" expanded="false" />
             <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
+            <element signature="e#13365#13491#0" expanded="false" />
+            <element signature="e#14032#14068#0" expanded="false" />
+            <element signature="e#14082#14360#0" expanded="false" />
+            <element signature="e#14289#14350#0" expanded="false" />
             <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+            <element signature="e#15621#15702#0" expanded="false" />
+            <element signature="e#15715#16715#0" expanded="false" />
+            <element signature="e#15835#16079#0" expanded="false" />
             <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+            <element signature="e#17197#17734#0" expanded="false" />
+            <element signature="e#17259#17318#0" expanded="false" />
+            <element signature="e#17391#17453#0" expanded="false" />
+            <element signature="e#17529#17594#0" expanded="false" />
+            <element signature="e#17663#17724#0" expanded="false" />
+            <element signature="e#17748#18204#0" expanded="false" />
+            <element signature="e#17791#17849#0" expanded="false" />
+            <element signature="e#17901#17964#0" expanded="false" />
+            <element signature="e#18019#18085#0" expanded="false" />
+            <element signature="e#18134#18194#0" expanded="false" />
             <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+            <element signature="e#18571#18632#0" expanded="false" />
+            <element signature="e#18646#18809#0" expanded="false" />
             <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="e#19591#19691#0" expanded="false" />
+            <element signature="e#19872#19909#0" expanded="false" />
+            <element signature="e#20082#20143#0" expanded="false" />
+            <element signature="e#20216#20285#0" expanded="false" />
+            <element signature="e#20355#20400#0" expanded="false" />
+            <element signature="e#20469#20506#0" expanded="false" />
+            <element signature="e#20556#20597#0" expanded="false" />
+            <element signature="e#20647#20802#0" expanded="false" />
+            <element signature="e#20723#20768#0" expanded="false" />
+            <marker date="1517412657086" expanded="false" signature="14699:14804" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -584,7 +776,28 @@
           <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="171" selection-end-column="1" />
           <folding>
             <element signature="e#50#2149#0" expanded="false" />
+            <element signature="e#170#212#0" expanded="false" />
+            <element signature="e#259#309#0" expanded="false" />
+            <element signature="e#355#2145#0" expanded="false" />
+            <element signature="e#459#1384#0" expanded="false" />
+            <element signature="e#1398#2096#0" expanded="false" />
             <element signature="e#2252#4672#0" expanded="false" />
+            <element signature="e#2542#2589#0" expanded="false" />
+            <element signature="e#2644#2709#0" expanded="false" />
+            <element signature="e#2753#3241#0" expanded="false" />
+            <element signature="e#3024#3235#0" expanded="false" />
+            <element signature="e#3276#3540#0" expanded="false" />
+            <element signature="e#3576#3805#0" expanded="false" />
+            <element signature="e#3837#4463#0" expanded="false" />
+            <element signature="e#3876#3906#0" expanded="false" />
+            <element signature="e#4516#4584#0" expanded="false" />
+            <element signature="e#4617#4650#0" expanded="false" />
+            <element signature="n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#4782#4965#0" expanded="false" />
+            <element signature="e#5012#5397#0" expanded="false" />
+            <element signature="e#5443#6310#0" expanded="false" />
+            <element signature="e#5492#5680#0" expanded="false" />
+            <element signature="e#5725#6095#0" expanded="false" />
             <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="e#7055#7156#0" expanded="false" />
             <element signature="e#7170#7294#0" expanded="false" />
@@ -593,29 +806,61 @@
             <element signature="e#7690#7841#0" expanded="false" />
             <element signature="e#7949#8070#0" expanded="false" />
             <element signature="e#8137#8316#0" expanded="false" />
+            <element signature="e#8334#9234#0" expanded="false" />
             <element signature="e#8381#8659#0" expanded="false" />
             <element signature="e#8710#9220#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#9336#10207#0" expanded="false" />
+            <element signature="e#9418#9778#0" expanded="false" />
+            <element signature="e#9800#10192#0" expanded="false" />
             <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#11388#11442#0" expanded="false" />
             <element signature="e#11546#11786#0" expanded="false" />
             <element signature="e#11800#12040#0" expanded="false" />
             <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
+            <element signature="e#13365#13491#0" expanded="false" />
+            <element signature="e#14032#14068#0" expanded="false" />
+            <element signature="e#14082#14360#0" expanded="false" />
+            <element signature="e#14289#14350#0" expanded="false" />
             <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+            <element signature="e#15621#15702#0" expanded="false" />
+            <element signature="e#15715#16715#0" expanded="false" />
+            <element signature="e#15835#16079#0" expanded="false" />
             <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+            <element signature="e#17197#17734#0" expanded="false" />
+            <element signature="e#17259#17318#0" expanded="false" />
+            <element signature="e#17391#17453#0" expanded="false" />
+            <element signature="e#17529#17594#0" expanded="false" />
+            <element signature="e#17663#17724#0" expanded="false" />
+            <element signature="e#17748#18204#0" expanded="false" />
+            <element signature="e#17791#17849#0" expanded="false" />
+            <element signature="e#17901#17964#0" expanded="false" />
+            <element signature="e#18019#18085#0" expanded="false" />
+            <element signature="e#18134#18194#0" expanded="false" />
             <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+            <element signature="e#18571#18632#0" expanded="false" />
+            <element signature="e#18646#18809#0" expanded="false" />
             <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="e#19591#19691#0" expanded="false" />
+            <element signature="e#19872#19909#0" expanded="false" />
+            <element signature="e#20082#20143#0" expanded="false" />
+            <element signature="e#20216#20285#0" expanded="false" />
+            <element signature="e#20355#20400#0" expanded="false" />
+            <element signature="e#20469#20506#0" expanded="false" />
+            <element signature="e#20556#20597#0" expanded="false" />
+            <element signature="e#20647#20802#0" expanded="false" />
+            <element signature="e#20723#20768#0" expanded="false" />
+            <marker date="1517412657086" expanded="false" signature="14699:14804" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -656,7 +901,28 @@
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#50#2149#0" expanded="false" />
+            <element signature="e#170#212#0" expanded="false" />
+            <element signature="e#259#309#0" expanded="false" />
+            <element signature="e#355#2145#0" expanded="false" />
+            <element signature="e#459#1384#0" expanded="false" />
+            <element signature="e#1398#2096#0" expanded="false" />
             <element signature="e#2252#4672#0" expanded="false" />
+            <element signature="e#2542#2589#0" expanded="false" />
+            <element signature="e#2644#2709#0" expanded="false" />
+            <element signature="e#2753#3241#0" expanded="false" />
+            <element signature="e#3024#3235#0" expanded="false" />
+            <element signature="e#3276#3540#0" expanded="false" />
+            <element signature="e#3576#3805#0" expanded="false" />
+            <element signature="e#3837#4463#0" expanded="false" />
+            <element signature="e#3876#3906#0" expanded="false" />
+            <element signature="e#4516#4584#0" expanded="false" />
+            <element signature="e#4617#4650#0" expanded="false" />
+            <element signature="n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#4782#4965#0" expanded="false" />
+            <element signature="e#5012#5397#0" expanded="false" />
+            <element signature="e#5443#6310#0" expanded="false" />
+            <element signature="e#5492#5680#0" expanded="false" />
+            <element signature="e#5725#6095#0" expanded="false" />
             <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="e#7055#7156#0" expanded="false" />
             <element signature="e#7170#7294#0" expanded="false" />
@@ -665,29 +931,61 @@
             <element signature="e#7690#7841#0" expanded="false" />
             <element signature="e#7949#8070#0" expanded="false" />
             <element signature="e#8137#8316#0" expanded="false" />
+            <element signature="e#8334#9234#0" expanded="false" />
             <element signature="e#8381#8659#0" expanded="false" />
             <element signature="e#8710#9220#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#9336#10207#0" expanded="false" />
+            <element signature="e#9418#9778#0" expanded="false" />
+            <element signature="e#9800#10192#0" expanded="false" />
             <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#11388#11442#0" expanded="false" />
             <element signature="e#11546#11786#0" expanded="false" />
             <element signature="e#11800#12040#0" expanded="false" />
             <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
+            <element signature="e#13365#13491#0" expanded="false" />
+            <element signature="e#14032#14068#0" expanded="false" />
+            <element signature="e#14082#14360#0" expanded="false" />
+            <element signature="e#14289#14350#0" expanded="false" />
             <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+            <element signature="e#15621#15702#0" expanded="false" />
+            <element signature="e#15715#16715#0" expanded="false" />
+            <element signature="e#15835#16079#0" expanded="false" />
             <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+            <element signature="e#17197#17734#0" expanded="false" />
+            <element signature="e#17259#17318#0" expanded="false" />
+            <element signature="e#17391#17453#0" expanded="false" />
+            <element signature="e#17529#17594#0" expanded="false" />
+            <element signature="e#17663#17724#0" expanded="false" />
+            <element signature="e#17748#18204#0" expanded="false" />
+            <element signature="e#17791#17849#0" expanded="false" />
+            <element signature="e#17901#17964#0" expanded="false" />
+            <element signature="e#18019#18085#0" expanded="false" />
+            <element signature="e#18134#18194#0" expanded="false" />
             <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+            <element signature="e#18571#18632#0" expanded="false" />
+            <element signature="e#18646#18809#0" expanded="false" />
             <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
             <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="e#19591#19691#0" expanded="false" />
+            <element signature="e#19872#19909#0" expanded="false" />
+            <element signature="e#20082#20143#0" expanded="false" />
+            <element signature="e#20216#20285#0" expanded="false" />
+            <element signature="e#20355#20400#0" expanded="false" />
+            <element signature="e#20469#20506#0" expanded="false" />
+            <element signature="e#20556#20597#0" expanded="false" />
+            <element signature="e#20647#20802#0" expanded="false" />
+            <element signature="e#20723#20768#0" expanded="false" />
+            <marker date="1517412657086" expanded="false" signature="14699:14804" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -777,13 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.config.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -803,14 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -826,70 +1109,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/source/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="162" column="22" lean-forward="false" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
-          <folding>
-            <element signature="e#50#2149#0" expanded="false" />
-            <element signature="e#2252#4672#0" expanded="false" />
-            <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
-            <element signature="e#7055#7156#0" expanded="false" />
-            <element signature="e#7170#7294#0" expanded="false" />
-            <element signature="n#!!block;n#onDocumentMouseDown#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
-            <element signature="e#7543#7672#0" expanded="false" />
-            <element signature="e#7690#7841#0" expanded="false" />
-            <element signature="e#7949#8070#0" expanded="false" />
-            <element signature="e#8137#8316#0" expanded="false" />
-            <element signature="e#8381#8659#0" expanded="false" />
-            <element signature="e#8710#9220#0" expanded="false" />
-            <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
-            <element signature="e#11546#11786#0" expanded="false" />
-            <element signature="e#11800#12040#0" expanded="false" />
-            <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initScene#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_initModel#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#updateMaterial#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
-            <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
-          <folding>
-            <element signature="e#3036#3232#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/taycater 点击事件绑定/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="211" selection-end-column="7" />
+        <state relative-caret-position="133">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="e#1192#1392#0" expanded="false" />
             <element signature="e#1504#1512#0" expanded="false" />
@@ -900,6 +1130,127 @@
             <element signature="e#4545#4742#0" expanded="false" />
             <element signature="e#4767#4921#0" expanded="false" />
             <element signature="e#4943#5183#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/03 spherePano/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1647">
+          <caret line="101" column="34" lean-forward="false" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
+          <folding>
+            <element signature="e#3036#3232#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/source/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="431" column="48" lean-forward="true" selection-start-line="431" selection-start-column="48" selection-end-line="431" selection-end-column="48" />
+          <folding>
+            <element signature="e#50#2149#0" expanded="false" />
+            <element signature="e#170#212#0" expanded="false" />
+            <element signature="e#259#309#0" expanded="false" />
+            <element signature="e#355#2145#0" expanded="false" />
+            <element signature="e#459#1384#0" expanded="false" />
+            <element signature="e#1398#2096#0" expanded="false" />
+            <element signature="e#2252#4672#0" expanded="false" />
+            <element signature="e#2542#2589#0" expanded="false" />
+            <element signature="e#2644#2709#0" expanded="false" />
+            <element signature="e#2753#3241#0" expanded="false" />
+            <element signature="e#3024#3235#0" expanded="false" />
+            <element signature="e#3276#3540#0" expanded="false" />
+            <element signature="e#3576#3805#0" expanded="false" />
+            <element signature="e#3837#4463#0" expanded="false" />
+            <element signature="e#3876#3906#0" expanded="false" />
+            <element signature="e#4516#4584#0" expanded="false" />
+            <element signature="e#4617#4650#0" expanded="false" />
+            <element signature="n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#4782#4965#0" expanded="false" />
+            <element signature="e#5012#5397#0" expanded="false" />
+            <element signature="e#5443#6310#0" expanded="false" />
+            <element signature="e#5492#5680#0" expanded="false" />
+            <element signature="e#5725#6095#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#7055#7156#0" expanded="false" />
+            <element signature="e#7170#7294#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#7543#7672#0" expanded="false" />
+            <element signature="e#7690#7841#0" expanded="false" />
+            <element signature="e#7949#8070#0" expanded="false" />
+            <element signature="e#8137#8316#0" expanded="false" />
+            <element signature="e#8334#9234#0" expanded="false" />
+            <element signature="e#8381#8659#0" expanded="false" />
+            <element signature="e#8710#9220#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#9336#10207#0" expanded="false" />
+            <element signature="e#9418#9778#0" expanded="false" />
+            <element signature="e#9800#10192#0" expanded="false" />
+            <element signature="n#!!block;n#onTwoTouchMove#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0;n#!!block;n#constructor#0;n#Panomara#0" expanded="false" />
+            <element signature="e#11388#11442#0" expanded="false" />
+            <element signature="e#11546#11786#0" expanded="false" />
+            <element signature="e#11800#12040#0" expanded="false" />
+            <element signature="n#!!block;n#_initRender#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_initCamera#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_initLight#0;n#Panomara#0" expanded="false" />
+            <element signature="e#13365#13491#0" expanded="false" />
+            <element signature="e#14032#14068#0" expanded="false" />
+            <element signature="e#14082#14360#0" expanded="false" />
+            <element signature="e#14289#14350#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#!!block;n#animate#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#_draw#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#Panomara#0" expanded="false" />
+            <element signature="e#15621#15702#0" expanded="false" />
+            <element signature="e#15715#16715#0" expanded="false" />
+            <element signature="e#15835#16079#0" expanded="false" />
+            <element signature="n#!!block;n#setAutoMove#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setFullScreen#0;n#Panomara#0" expanded="false" />
+            <element signature="e#17197#17734#0" expanded="false" />
+            <element signature="e#17259#17318#0" expanded="false" />
+            <element signature="e#17391#17453#0" expanded="false" />
+            <element signature="e#17529#17594#0" expanded="false" />
+            <element signature="e#17663#17724#0" expanded="false" />
+            <element signature="e#17748#18204#0" expanded="false" />
+            <element signature="e#17791#17849#0" expanded="false" />
+            <element signature="e#17901#17964#0" expanded="false" />
+            <element signature="e#18019#18085#0" expanded="false" />
+            <element signature="e#18134#18194#0" expanded="false" />
+            <element signature="n#!!block;n#setGyro#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setVR#0;n#Panomara#0" expanded="false" />
+            <element signature="e#18571#18632#0" expanded="false" />
+            <element signature="e#18646#18809#0" expanded="false" />
+            <element signature="n#!!block;n#setSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#setSceneFov#0;n#Panomara#0" expanded="false" />
+            <element signature="n#!!block;n#getSceneCenter#0;n#Panomara#0" expanded="false" />
+            <element signature="e#19591#19691#0" expanded="false" />
+            <element signature="e#19872#19909#0" expanded="false" />
+            <element signature="e#20082#20143#0" expanded="false" />
+            <element signature="e#20216#20285#0" expanded="false" />
+            <element signature="e#20355#20400#0" expanded="false" />
+            <element signature="e#20469#20506#0" expanded="false" />
+            <element signature="e#20556#20597#0" expanded="false" />
+            <element signature="e#20647#20802#0" expanded="false" />
+            <element signature="e#20723#20768#0" expanded="false" />
+            <marker date="1517412657086" expanded="false" signature="14699:14804" ph="{...}" />
           </folding>
         </state>
       </provider>

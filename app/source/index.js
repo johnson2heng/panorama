@@ -401,10 +401,6 @@ class Panomara {
         else {
             mater = new THREE.MeshBasicMaterial({color: 0x000000});
         }
-
-        constant.skyBox = new THREE.Mesh(new THREE.CubeGeometry(200, 200, 200), mater);
-        constant.skyBox.applyMatrix(new THREE.Matrix4().makeScale(1, 1, -1));
-        constant.scene.add(constant.skyBox);
     }
 
     //更新纹理
@@ -427,7 +423,15 @@ class Panomara {
             }
         }
 
-        let textureLoader = new THREE.TextureLoader();
+
+
+        //给场景添加天空盒子纹理
+        let cubeTextureLoader = new THREE.CubeTextureLoader();
+        let cubeTexture = cubeTextureLoader.load(arr);
+
+        constant.scene.background = cubeTexture;
+
+        /*let textureLoader = new THREE.TextureLoader();
 
         let materials = [];
         for (let i = 0, len = uvArr.length; i < len; i++) {
@@ -437,7 +441,7 @@ class Panomara {
         //清除掉原来的模型，放置现在的新纹理的模型
         constant.scene.remove(constant.skyBox);
 
-        that._initModel(materials);
+        that._initModel(materials);*/
     }
 
     //调用更新的方法
