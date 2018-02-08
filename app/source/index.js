@@ -153,6 +153,7 @@ class Panomara {
             camera: null, //相机
             scene: null, //场景
             light: null, //光源
+            loader: null, //图片加载器
             skyBox: null, //存储全景纹理的天空盒子
             dop: new Dop(), //dop类
             media: null, //当前设备的类型
@@ -184,6 +185,7 @@ class Panomara {
             canAutoMove: false, //当前场景是否能够自动旋转
             renderer: null, // 当前使用的渲染器
             gyro:false, //当前是否处于陀螺仪状态
+            first:true, //是否是第一次加载图片
         };
 
         //初始化
@@ -381,6 +383,8 @@ class Panomara {
         let that = this;
         let constant = that.constant;
         constant.scene = new THREE.Scene();
+
+        constant.loader = new THREE.CubeTextureLoader();
     }
 
     //初始化灯光
@@ -392,15 +396,6 @@ class Panomara {
 
     //初始化模型
     _initModel(material) {
-        let that = this;
-        let constant = that.constant;
-        let mater;
-        if (material) {
-            mater = material;
-        }
-        else {
-            mater = new THREE.MeshBasicMaterial({color: 0x000000});
-        }
     }
 
     //更新纹理
@@ -408,6 +403,7 @@ class Panomara {
         //传入的纹理图片的顺序为 ["right","left","up","down","back","front"];
         let that = this;
         let constant = that.constant;
+        let state = that.state;
         //判断一下是否有数组传入，如果有则按照数组传入的图形进行绘制
         let uvArr = [];
         if (arr) {
@@ -423,25 +419,30 @@ class Panomara {
             }
         }
 
+        if(state.first){
+            state.first = false;
 
-
-        //给场景添加天空盒子纹理
-        let cubeTextureLoader = new THREE.CubeTextureLoader();
-        let cubeTexture = cubeTextureLoader.load(arr);
-
-        constant.scene.background = cubeTexture;
-
-        /*let textureLoader = new THREE.TextureLoader();
-
-        let materials = [];
-        for (let i = 0, len = uvArr.length; i < len; i++) {
-            materials.push(new THREE.MeshBasicMaterial({map: textureLoader.load(uvArr[i])}));
+            constant.scene.background = constant.loader.load(arr);
+            constant.scene.background.magFilter = THREE.LinearFilter;
+            constant.scene.background.minFilter = THREE.LinearFilter;
         }
-
-        //清除掉原来的模型，放置现在的新纹理的模型
-        constant.scene.remove(constant.skyBox);
-
-        that._initModel(materials);*/
+        else{
+            let index = 0;
+            let imgArr = [];
+            for(let i = 0,len = arr.length; i<len; i++){
+                let img = new Image();
+                imgArr[i] = img;
+                img.src = arr[i];
+                img.onload = function () {
+                    index ++;
+                    //6张图片都加载完成
+                    if(index === 6){
+                        constant.scene.background.image = imgArr;
+                        constant.scene.background.needsUpdate = true;
+                    }
+                }
+            }
+        }
     }
 
     //调用更新的方法
@@ -678,3 +679,19 @@ dop.$(btn[5]).on("tap", function () {
     pano.updateMaterial(uvArr);
 });
 
+
+/*let index = 0;
+setInterval(function () {
+    index++;
+    if(index>2) index = 0;
+
+    let uvArr = [];
+    let uv = ["r", "l", "u", "d", "b", "f"];
+    let dir = "images/100000_"+index+"/";
+    let jpg = ".jpg";
+    for (let i = 0; i < uv.length; i++) {
+        uvArr[i] = dir + uv[i] + jpg;
+    }
+    pano.updateMaterial(uvArr);
+    console.log(new Date())
+},3000);*/
